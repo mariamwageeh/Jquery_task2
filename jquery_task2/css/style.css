@@ -1,0 +1,11 @@
+.sub{
+    float: left;
+    margin-left: 5px;
+    width: 100px;
+    height: 100px;
+   cursor: pointer;
+}
+.main{
+    height: 70vh;
+    margin-bottom: 20px;
+}
